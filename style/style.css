@@ -1,0 +1,47 @@
+
+@import url("introduction.css");
+@import url("content.css");
+@import url("indent.css");
+@import url("tree.css");
+@import url("recipe.css");
+@import url("result.css");
+@font-face {
+    font-family: "Roboto-Black";
+    src: url("../font/Roboto-Black.woff") format("woff");
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: "Roboto-Bold";
+    src: url("../font/Roboto-Bold.woff") format("woff");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Robot-Regular";
+    src: url("../font/Roboto-Regular.woff") format("woff");
+    font-weight: 400;
+}
+
+body {
+    font-family: Robot-Regular,sans-serif;
+    font-size: 20px;
+}
+
+li {
+    list-style-type: none;
+}
+
+figure {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    padding: 0;
+}
+
+.container {
+    width: 1080px;
+    margin: 0 auto;
+}

@@ -1,0 +1,29 @@
+
+
+.content {
+    padding-top: 50px;
+}
+
+.content__title {
+    font-family: Roboto-Bold,sans-serif;
+    font-size: 44px;
+    font-weight: 700;
+    margin-top: 0;
+}
+
+.content__list {
+
+}
+
+.content__item {
+    margin-bottom: 10px;
+    list-style-type: decimal;
+     color: #02535F;
+}
+
+.content__link {
+    color: #02535F;
+    font-weight: 400;
+    line-height: 120%;
+    font-size: 20px;
+}

@@ -1,0 +1,45 @@
+
+.tree {
+    padding-top: 50px;
+}
+
+.tree__title {
+    font-family: Roboto-Black,sans-serif;
+    font-size: 28px;
+    margin: 0 0 30px 0;
+}
+
+.tree__figcaption {
+    margin: 0 0 30px 0;
+}
+
+.tree__figcaption_border {
+    color: #5E5E5E;
+    min-width: 1080px;
+    min-height: 79px;
+    border: solid 1px;
+    border-top: none;
+}
+
+.tree__text_border {
+    display: block;
+    max-width: 1020px;
+    padding: 15px 30px;
+}
+
+.tree__img {
+    display: block;
+    margin: 0 auto 30px;
+}
+
+.tree__img_margin {
+    margin: 0;
+}
+
+.tree__text {
+    margin: 0 0 30px 0;
+}
+
+.tree__item {
+    margin-bottom: 30px;
+}
